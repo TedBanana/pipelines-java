@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Ted20191028/MyProject_1/_apis/build/status/TedBanana.pipelines-java?branchName=master)](https://dev.azure.com/Ted20191028/MyProject_1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
